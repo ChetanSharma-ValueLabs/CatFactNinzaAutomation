@@ -1,0 +1,6 @@
+{
+    "MaxLength":100,
+    "MinLength":20,
+    "FailingLength":19,
+    "Limit":5
+}
